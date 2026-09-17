@@ -7,7 +7,8 @@ Read, search, tag, and resume any past session plus a Findings tab that scans yo
 
 <img width="2554" height="1332" alt="image" src="https://github.com/user-attachments/assets/e4afdabe-0d33-49a2-a7a6-4cac32764334" />
 
-> Author: [Divyanshu](linkedin.com/in/iamdivyanshu)
+> - Author: [Divyanshu](linkedin.com/in/iamdivyanshu)
+> - Repository: [github.com/peachycloudsecurity/AgentSessions](https://github.com/peachycloudsecurity/AgentSessions)
 
 ## What you get
 
