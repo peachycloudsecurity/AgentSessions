@@ -1,4 +1,5 @@
-# Agent Sessions
+
+<h1 align="center">Agent Sessions</h1>
 
 **A native macOS app for browsing your local Claude Code sessions.**
 
@@ -52,6 +53,12 @@ GPL-3.0 - see [LICENSE](LICENSE).
 
 
 ### Contact: **[Peachycloud Security](https://peachycloudsecurity.com)**
+
+
+<p align="center">
+  by <a href="https://topmate.io/peachycloudsecurity">Anjali &amp; Divyanshu</a> (theshukladuo) at <a href="https://www.youtube.com/@peachycloudsecurity">Peachycloud Security </a>
+</p>
+
 
 ## 💝 Support the Project
 
