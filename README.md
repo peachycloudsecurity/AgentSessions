@@ -4,7 +4,7 @@
 
 Read, search, tag, and resume any past session plus a Findings tab that scans your transcripts for leaked secrets. Everything runs locally; no data leaves your machine.
 
-<img width="2572" height="1361" alt="image" src="https://github.com/user-attachments/assets/1c190dad-7f0e-46bd-bf70-e90ee541fa37" />
+<img width="2554" height="1332" alt="image" src="https://github.com/user-attachments/assets/e4afdabe-0d33-49a2-a7a6-4cac32764334" />
 
 > Author: [Divyanshu](linkedin.com/in/iamdivyanshu)
 
