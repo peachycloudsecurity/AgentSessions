@@ -52,14 +52,6 @@ GPL-3.0 - see [LICENSE](LICENSE).
 
 
 
-### By: **[Peachycloud Security](https://peachycloudsecurity.com)**
-
-
-<p align="center">
-  by <a href="https://topmate.io/peachycloudsecurity">Anjali &amp; Divyanshu</a> (theshukladuo) at <a href="https://www.youtube.com/@peachycloudsecurity">Peachycloud Security </a>
-</p>
-
-
 ## 💝 Support the Project
 
 Your support helps us maintain and improve this workshop, create more educational content, and continue building open-source security resources for the community.
@@ -71,4 +63,9 @@ Your support helps us maintain and improve this workshop, create more educationa
 - **Connect & Learn** - Connect with us via [Topmate](https://topmate.io/peachycloudsecurity)
 
 > **Looking for personalized guidance?** Get one-on-one mentorship, interview prep, or custom training sessions through our [Topmate](https://topmate.io/peachycloudsecurity) platform.
+
+
+<p align="center">
+  by <a href="https://topmate.io/peachycloudsecurity">Anjali &amp; Divyanshu</a> (theshukladuo) at <a href="https://www.youtube.com/@peachycloudsecurity">Peachycloud Security </a>
+</p>
 
