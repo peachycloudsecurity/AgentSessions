@@ -35,20 +35,14 @@ GPL-3.0 - see [LICENSE](LICENSE).
 
 ## Disclaimer
 
-- The information, commands, and demonstrations presented in this lab including any course, are intended strictly for educational purposes. Under no circumstances should they be used to compromise or attack any system outside the boundaries of this educational session unless explicit permission has been granted.
+> The information, commands, and demonstrations presented in this project including any data, are intended strictly for educational purposes. Under no circumstances should they be used to compromise or attack any system outside the boundaries of this educational session unless explicit permission has been granted.
 
-    - <b>This course is provided by the instructors independently and is not endorsed by their employers or any other corporate entity. The content does not necessarily reflect the views or policies of any company or professional organization associated with the instructors.</b>
-
-- **Usage of Training Material**: The training material is provided without warranties or guarantees. Participants are responsible for applying the techniques or methods discussed during the training. The trainers and their respective employers or affiliated companies are not liable for any misuse or misapplication of the information provided.
-
-- **Liability**: The trainers, their employers, and any affiliated companies are not responsible for any direct, indirect, incidental, or consequential damages arising from the use of the information provided in this course. No responsibility is assumed for any injury or damage to persons, property, or systems as a result of using or operating any methods, products, instructions, or ideas discussed during the training.
-
-- **Intellectual Property**: This course and all accompanying materials, including slides, worksheets, and documentation, are the intellectual property of the trainers. They are shared under the GPL-3.0 license, which requires that appropriate credit be given to the trainers whenever the materials are used, modified, or redistributed.
-
-- **References**: Some of the labs referenced in this workshop are based on open-source material. Additionally, modifications and fixes have been applied using AI tools such as Amazon Q, ChatGPT, and Gemini.
-
-- **Educational Purpose**: This lab is for educational purposes only. Do not attack or test any website or network without proper authorization. The trainers are not liable or responsible for any misuse.
-- **Usage Rights**: Individuals are permitted to use this course for instructional purposes, provided that no fees are charged to the students.
+- **Usage of Material**: The code and associated material is provided without warranties or guarantees. 
+- **Liability**: The author, their employers, and any affiliated companies are not responsible for any direct, indirect, incidental, or consequential damages arising from the use of the information provided here.  The content does not necessarily reflect the views or policies of any company or professional organization associated with the author.
+- **Intellectual Property**: This project accompanying materials, including slides, worksheets, and documentation, are the intellectual property of the peachycloudsecurity. They are shared under the GPL-3.0 license, which requires that appropriate credit be given to the authors whenever the materials are used, modified, or redistributed.
+- **References**: Modifications and fixes have been applied using AI tools such as Amazon Q, ChatGPT, and Gemini, Claude.
+- **Educational Purpose**: This is for educational purposes and personal use only. Do not attack or test any website or network without proper authorization. The trainers are not liable or responsible for any misuse.
+- **Usage Rights**: Individuals are permitted to use this for instructional purposes, provided that no fees are charged to the users.
 
 
 
