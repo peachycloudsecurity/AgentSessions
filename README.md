@@ -66,6 +66,6 @@ Your support helps us maintain and improve this workshop, create more educationa
 
 
 <p align="center">
-  by <a href="https://topmate.io/peachycloudsecurity">Anjali &amp; Divyanshu</a> (theshukladuo) at <a href="https://www.youtube.com/@peachycloudsecurity">Peachycloud Security </a>
+  By <a href="https://topmate.io/peachycloudsecurity">Anjali &amp; Divyanshu</a> (theshukladuo) at <a href="https://www.youtube.com/@peachycloudsecurity">Peachycloud Security </a>
 </p>
 
