@@ -52,7 +52,7 @@ GPL-3.0 - see [LICENSE](LICENSE).
 
 
 
-### Contact: **[Peachycloud Security](https://peachycloudsecurity.com)**
+### By: **[Peachycloud Security](https://peachycloudsecurity.com)**
 
 
 <p align="center">
